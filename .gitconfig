@@ -1,0 +1,30 @@
+[alias]
+  co = checkout
+  c = commit
+  s = status
+  d = diff
+  l = log
+  b = branch
+  a = add
+  l1 = log --oneline
+  f = fetch
+  p = pull
+  m = merge
+
+[diff]
+  color = auto
+
+[pager]
+  color = true
+
+[status]
+  color = auto
+
+[core]
+  editor = vim
+
+[user]
+  name = Kyle Spaans
+  email = kyle.spaans@yourgolftravel.com
+[push]
+	default = current
