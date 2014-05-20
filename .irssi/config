@@ -1,5 +1,5 @@
 servers = (
-  { address = "irc"; chatnet = "YGTIRC"; port = "6667"; autoconnect = "yes" },
+  { address = "irc"; chatnet = "YGTIRC"; port = "6667"; autoconnect = "yes"; },
 );
 
 chatnets = {
