@@ -9,6 +9,7 @@ chatnets = {
 channels = (
   { name = "#general";   chatnet = "YGTIRC"; autojoin = "Yes"; },
   { name = "#sharktank"; chatnet = "YGTIRC"; autojoin = "Yes"; }
+  { name = "#sharknews"; chatnet = "YGTIRC"; autojoin = "Yes"; }
 );
 
 aliases = {
